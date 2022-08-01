@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="30px" src="https://brandslogos.com/wp-content/uploads/thumbs/youtube-icon-logo-vector.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png  " />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
 
