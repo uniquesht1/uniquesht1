@@ -1,9 +1,11 @@
 ### Hey there, I'm Unique. 👋
 
-## I'm learning new things everyday and aspiring to be great!
+## I'm learning and aspiring every day. !
 
+
+- 🌃 I am studying Computer Engineer.
+- 🧑‍💻 I am intersted in full stack development and artificial intelligence.
 - 💻 I watch anime and play games.
-- 🌃i love stargazing.
 - ⚡ I love to play guitar.
 
 ### Connect with me:
