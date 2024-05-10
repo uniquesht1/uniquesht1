@@ -38,10 +38,9 @@
 [<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" target="_blank" />][python]
 [<img align="left" alt="jupyter" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/jupyter.svg" target="_blank" />][jupyter]
 [<img align="left" alt="figma" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" target="_blank" />][figma]
+<br />
+
 [<img align="left" alt="latex" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/800px-Overleaf_Logo.svg.png" target="_blank" />][latex]
-
-
-
 
 <br />
 <br />
