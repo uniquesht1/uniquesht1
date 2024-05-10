@@ -2,15 +2,17 @@
 
 ## I'm learning and aspiring every day. !
 
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ20zOGI5OGY4aDhuOGk5OWJsa3FhN2xpMzJtMHg0d29hdXh0ZmlhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohT97gdpR40vK/giphy.gif" width="350" />
 
 - 🌃 I am studying Computer Engineer.
 - 🧑‍💻 I am intersted in full stack development and artificial intelligence.
-- 💻 I watch anime and play games.
+- 💻 I watch anime.
 - ⚡ I love to play guitar.
+
+
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="30px" src="https://brandslogos.com/wp-content/uploads/thumbs/youtube-icon-logo-vector.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
@@ -44,3 +46,11 @@
 [css]: https://www.w3schools.com/css
 [js]: https://www.javascript.com
 [github]: https://git-scm.com/
+
+
+<div >
+  <img src="https://github-readme-stats.vercel.app/api?username=uniquesht1&theme=github_dark&show_icons=true" alt="Unique's GitHub stats" style="float: right;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniquesht1" alt="Unique's Top Languages" align='right'">
+</div>
+
+
