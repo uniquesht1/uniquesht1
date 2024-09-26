@@ -79,4 +79,9 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniquesht1&layout=donut" alt="Top Languages" align='right'">
 </div>
 
+<br>
+<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=uniquesht1&theme=tokyonight-duo&hide_border=false)<br/>
+
 
