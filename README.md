@@ -41,6 +41,8 @@
 <br />
 
 [<img align="left" alt="latex" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/800px-Overleaf_Logo.svg.png" target="_blank" />][latex]
+[<img align="left" alt="fastAPI" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" target="_blank" />][fastAPI]
+[<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" target="_blank" />][NodeJS]
 
 <br />
 <br />
@@ -70,6 +72,9 @@
 [vite]: https://vitejs.dev/
 [MySQL]: https://www.mysql.com/
 [figma]: https://www.figma.com/
+[fastAPI]: https://fastapi.tiangolo.com/
+[NodeJS]: https://nodejs.org/en/
+
 
 
 
