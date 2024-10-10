@@ -27,7 +27,6 @@
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" target="_blank"  />][css]
 [<img align="left" alt="tailwind" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" target="_blank"  />][tailwind]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" target="_blank"  />][js]
-[<img align="left" alt="ts" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" target="_blank"  />][ts]
 [<img align="left" alt="vite" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" target="_blank" />][vite]
 [<img align="left" alt="c" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" target="_blank"  />][c]
 [<img align="left" alt="cpp" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" target="_blank" />][cpp]
