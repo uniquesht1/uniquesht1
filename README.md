@@ -6,7 +6,6 @@
 
 - 🌃 I am studying Computer Engineer.
 - 🧑‍💻 I am intersted in full stack development and artificial intelligence.
-- 💻 I watch anime.
 - ⚡ I love to play guitar.
 
 
