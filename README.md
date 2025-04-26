@@ -7,6 +7,7 @@
 - 🌃 I am studying Computer Engineer.
 - 🧑‍💻 I am intersted in full stack development and artificial intelligence.
 - ⚡ I love to play guitar.
+- 🚶‍➡️ Talk to me about trekking.
 
 
 
