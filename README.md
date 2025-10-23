@@ -4,11 +4,11 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ20zOGI5OGY4aDhuOGk5OWJsa3FhN2xpMzJtMHg0d29hdXh0ZmlhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohT97gdpR40vK/giphy.gif" width="330" />
 
-- 🌃 I am studying Computer Engineer.
-- 🧑‍💻 I am intersted in full stack development and artificial intelligence.
-- ⚡ I love to play guitar.
-- 🚶‍➡️ Talk to me about trekking.
-
+- 💻 **Junior Software Engineer** | **AI & Full Stack Developer**  
+- 🎓 Computer Engineering Graduate from **Khwopa College of Engineering**, TU  
+- 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Web Development**  
+- 🚀 Exploring the intersection of **AI + Web Technologies**  
+- 🎸 I love to play guitar and go **trekking**
 
 
 ### Connect with me:
